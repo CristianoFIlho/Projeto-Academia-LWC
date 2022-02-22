@@ -3,7 +3,7 @@
     <apiVersion>52.0</apiVersion>
     <targets>
     <target>
-    lightning__AppPage
+        lightning__AppPage
     </target>
 
     </targets>
