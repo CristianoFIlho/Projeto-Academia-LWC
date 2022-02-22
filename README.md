@@ -6,7 +6,8 @@
 
 **Diagrama de Entidade e Relacionamento Proposto:**
 
-![Untitled](Untitled%20fbbb1/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/54041918/155020294-5b93ed09-c6b4-4a07-a640-179b84d83bb0.png)
+
 
 **Epic Story 001: Fluxo de Aluguel de Carros**
 
@@ -40,7 +41,8 @@ Em seguida abrir o Developer Console e executar, no Anonymous Window, o comando 
 
 Criar, no Lightning App Builder, uma App Page com o nome Car Rental e que contenha 3 regiões, sendo uma principal à esquerda e duas (sendo uma sobre a outra) no lado direito como o exemplo abaixo:
 
-![Untitled](Untitled%20fbbb1/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/54041918/155020483-37063f1d-c660-4239-a165-acf32ff6c53c.png)
+
 
 Terá que estar disponível no aplicativo de Vendas.
 
@@ -62,11 +64,13 @@ Será necessário utilizar a biblioteca de Navigation ou LDS para permitir a cri
 
 Protótipo:
 
-![Untitled](Untitled%20fbbb1/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/54041918/155020558-77150b33-5182-43b2-99b7-729c03195528.png)
+
 
 Quando o botão novo for acionado:
 
-![Untitled](Untitled%20fbbb1/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/54041918/155020585-605d9ac1-484d-4e35-b495-427422a034a7.png)
+
 
 **User Story 004: Apresentação de Detalhes do Carro**
 
@@ -92,15 +96,18 @@ Protótipo:
 
 **Detalhes**
 
-![Untitled](Untitled%20fbbb1/Untitled%204.png)
+![Untitled 4](https://user-images.githubusercontent.com/54041918/155020623-7983fbe5-4cf3-4db7-9cae-c06138e73807.png)
+
 
 **Adicionar Experiencia**
 
-![Untitled](Untitled%20fbbb1/Untitled%205.png)
+![Untitled 5](https://user-images.githubusercontent.com/54041918/155020666-5effc0de-2b19-4248-9b88-5f21d6d3201b.png)
+
 
 **Visualizar Experiencia**
 
-![Untitled](Untitled%20fbbb1/Untitled%206.png)
+![Untitled 6](https://user-images.githubusercontent.com/54041918/155020694-8ebff1e7-3291-405e-8ef6-c6114e68df7d.png)
+
 
 **User Story 005: Apresentação da localização do Carro**
 
@@ -116,4 +123,5 @@ Protótipo:
 
 **Mapa**
 
-![Untitled](Untitled%20fbbb1/Untitled%207.png)
+![Untitled 7](https://user-images.githubusercontent.com/54041918/155020888-92851320-23ea-4113-afbc-60e9fa199f86.png)
+
