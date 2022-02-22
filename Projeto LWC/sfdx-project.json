@@ -1,10 +1,12 @@
-{ 
-  "packageDirectories" : [ 
-      { "path": "force-app", "default": true}, 
-      { "path" : "unpackaged" }, 
-      { "path" : "utils" } 
-    ],
-  "namespace": "Projeto LWC", 
-  "sfdcLoginUrl" : "https://login.salesforce.com", 
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "Projeto LWC",
+  "namespace": "Projeto LWC",
+  "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "44.0"
-  }
+}
